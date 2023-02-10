@@ -2,72 +2,72 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://g.zadd.cn/zh/</loc>
+    <loc>http://g.zadd.cn/zadd.github.io/zh/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://g.zadd.cn/"
+                href="http://g.zadd.cn/zadd.github.io/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="http://g.zadd.cn/pt/"
+                href="http://g.zadd.cn/zadd.github.io/pt/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="http://g.zadd.cn/zh/"
+                href="http://g.zadd.cn/zadd.github.io/zh/"
                 />
   </url><url>
-    <loc>http://g.zadd.cn/zh/categories/</loc>
+    <loc>http://g.zadd.cn/zadd.github.io/zh/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://g.zadd.cn/categories/"
+                href="http://g.zadd.cn/zadd.github.io/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="http://g.zadd.cn/pt/categories/"
+                href="http://g.zadd.cn/zadd.github.io/pt/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="http://g.zadd.cn/zh/categories/"
+                href="http://g.zadd.cn/zadd.github.io/zh/categories/"
                 />
   </url><url>
-    <loc>http://g.zadd.cn/zh/series/</loc>
+    <loc>http://g.zadd.cn/zadd.github.io/zh/series/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://g.zadd.cn/series/"
+                href="http://g.zadd.cn/zadd.github.io/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="http://g.zadd.cn/pt/series/"
+                href="http://g.zadd.cn/zadd.github.io/pt/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="http://g.zadd.cn/zh/series/"
+                href="http://g.zadd.cn/zadd.github.io/zh/series/"
                 />
   </url><url>
-    <loc>http://g.zadd.cn/zh/tags/</loc>
+    <loc>http://g.zadd.cn/zadd.github.io/zh/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://g.zadd.cn/tags/"
+                href="http://g.zadd.cn/zadd.github.io/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="http://g.zadd.cn/pt/tags/"
+                href="http://g.zadd.cn/zadd.github.io/pt/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="http://g.zadd.cn/zh/tags/"
+                href="http://g.zadd.cn/zadd.github.io/zh/tags/"
                 />
   </url>
 </urlset>

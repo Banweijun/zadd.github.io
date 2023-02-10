@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Themes Guide on ZADD</title>
-    <link>http://g.zadd.cn/series/themes-guide/</link>
+    <link>http://g.zadd.cn/zadd.github.io/series/themes-guide/</link>
     <description>Recent content in Themes Guide on ZADD</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
-    <lastBuildDate>Wed, 08 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://g.zadd.cn/series/themes-guide/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 08 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://g.zadd.cn/zadd.github.io/series/themes-guide/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Using Hugo page bundles2</title>
-      <link>http://g.zadd.cn/post/test/markdown-test/</link>
+      <link>http://g.zadd.cn/zadd.github.io/post/test/markdown-test/</link>
       <pubDate>Wed, 08 Feb 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://g.zadd.cn/post/test/markdown-test/</guid>
+      <guid>http://g.zadd.cn/zadd.github.io/post/test/markdown-test/</guid>
       <description>
         
           
@@ -25,10 +25,10 @@
     
     <item>
       <title>Using Hugo page bundles</title>
-      <link>http://g.zadd.cn/post/bundle/</link>
+      <link>http://g.zadd.cn/zadd.github.io/post/bundle/</link>
       <pubDate>Thu, 24 Mar 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://g.zadd.cn/post/bundle/</guid>
+      <guid>http://g.zadd.cn/zadd.github.io/post/bundle/</guid>
       <description>
         
           
@@ -41,10 +41,10 @@
     
     <item>
       <title>Markdown Syntax Guide</title>
-      <link>http://g.zadd.cn/post/markdown-syntax/</link>
+      <link>http://g.zadd.cn/zadd.github.io/post/markdown-syntax/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://g.zadd.cn/post/markdown-syntax/</guid>
+      <guid>http://g.zadd.cn/zadd.github.io/post/markdown-syntax/</guid>
       <description>
         
           
