@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on ZADD</title>
-    <link>https://example.com/post/</link>
+    <link>https://zadd.github.io/post/</link>
     <description>Recent content in Posts on ZADD</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
-    <lastBuildDate>Wed, 08 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 08 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://zadd.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Using Hugo page bundles2</title>
-      <link>https://example.com/post/test/markdown-test/</link>
+      <link>https://zadd.github.io/post/test/markdown-test/</link>
       <pubDate>Wed, 08 Feb 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/post/test/markdown-test/</guid>
+      <guid>https://zadd.github.io/post/test/markdown-test/</guid>
       <description>
         
           
@@ -25,10 +25,10 @@
     
     <item>
       <title>Using Hugo page bundles</title>
-      <link>https://example.com/post/bundle/</link>
+      <link>https://zadd.github.io/post/bundle/</link>
       <pubDate>Thu, 24 Mar 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/post/bundle/</guid>
+      <guid>https://zadd.github.io/post/bundle/</guid>
       <description>
         
           
@@ -41,10 +41,10 @@
     
     <item>
       <title>Using OpenStreetMap</title>
-      <link>https://example.com/post/map/</link>
+      <link>https://zadd.github.io/post/map/</link>
       <pubDate>Mon, 14 Feb 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/post/map/</guid>
+      <guid>https://zadd.github.io/post/map/</guid>
       <description>
         
           
@@ -57,10 +57,10 @@
     
     <item>
       <title>Using Notices</title>
-      <link>https://example.com/post/notices/</link>
+      <link>https://zadd.github.io/post/notices/</link>
       <pubDate>Fri, 20 Aug 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/post/notices/</guid>
+      <guid>https://zadd.github.io/post/notices/</guid>
       <description>
         
           
@@ -75,10 +75,10 @@ You use the notice shortcode, with the first parameter being one of note, info, 
     
     <item>
       <title>Markdown Syntax Guide</title>
-      <link>https://example.com/post/markdown-syntax/</link>
+      <link>https://zadd.github.io/post/markdown-syntax/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/post/markdown-syntax/</guid>
+      <guid>https://zadd.github.io/post/markdown-syntax/</guid>
       <description>
         
           
@@ -91,10 +91,10 @@ You use the notice shortcode, with the first parameter being one of note, info, 
     
     <item>
       <title>Rich Content</title>
-      <link>https://example.com/post/rich-content/</link>
+      <link>https://zadd.github.io/post/rich-content/</link>
       <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/post/rich-content/</guid>
+      <guid>https://zadd.github.io/post/rich-content/</guid>
       <description>
         
           
@@ -107,10 +107,10 @@ You use the notice shortcode, with the first parameter being one of note, info, 
     
     <item>
       <title>Placeholder Text</title>
-      <link>https://example.com/post/placeholder-text/</link>
+      <link>https://zadd.github.io/post/placeholder-text/</link>
       <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/post/placeholder-text/</guid>
+      <guid>https://zadd.github.io/post/placeholder-text/</guid>
       <description>
         
           
@@ -123,10 +123,10 @@ You use the notice shortcode, with the first parameter being one of note, info, 
     
     <item>
       <title>Math Typesetting</title>
-      <link>https://example.com/post/math-typesetting/</link>
+      <link>https://zadd.github.io/post/math-typesetting/</link>
       <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/post/math-typesetting/</guid>
+      <guid>https://zadd.github.io/post/math-typesetting/</guid>
       <description>
         
           
@@ -139,10 +139,10 @@ You use the notice shortcode, with the first parameter being one of note, info, 
     
     <item>
       <title>Emoji Support</title>
-      <link>https://example.com/post/emoji-support/</link>
+      <link>https://zadd.github.io/post/emoji-support/</link>
       <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/post/emoji-support/</guid>
+      <guid>https://zadd.github.io/post/emoji-support/</guid>
       <description>
         
           
