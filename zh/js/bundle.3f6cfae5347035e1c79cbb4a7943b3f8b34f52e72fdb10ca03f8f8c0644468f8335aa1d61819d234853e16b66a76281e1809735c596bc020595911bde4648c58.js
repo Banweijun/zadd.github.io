@@ -10,7 +10,7 @@ const imageAltClass = 'img_alt';
 
 
 const defaultSiteLanguage = 'pt';
-const baseURL = 'http://g.zadd.cn/zadd.github.io/';
+const baseURL = 'https://banweijun.github.io/zadd.github.io/';
 const searchFieldClass = '.search_field';
 const searchClass = '.search';
 const goBackClass = 'button_back';
